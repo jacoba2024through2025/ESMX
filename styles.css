@@ -1,0 +1,54 @@
+.div-custom {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    background-color: rgb(49, 43, 43);
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+    background-color: rgba(62, 61, 61, 0.795);
+    
+    width: 100vw;
+}
+
+.h1-style {
+    background-color: rgba(62, 61, 61, 0.228);
+    margin-left: 9em;
+    margin-right: 9em;
+    border-radius: 3%;
+    box-shadow: 0.1em 0.1em 0.15em rgb(43, 59, 139);
+    
+}
+
+.button-custom {
+    color:rgb(43, 59, 139);
+    font-family:monospace;
+    font-size: 20pt
+}
+
+.h1-custom {
+    text-align: center;
+    color:rgb(43, 59, 139);
+    font-family:monospace;
+    font-size: 30pt
+    
+}
+
+
+
+.p-custom {
+    margin-left: 15em;
+    margin-right: 15em;
+    text-indent: 1em;
+    background-color: rgba(62, 61, 61, 0.228);
+    color: rgb(43, 59, 139);
+    font-weight: 900;
+    font-size: 15pt;
+    border-radius: 2%;
+    font-family: monospace;
+    box-shadow: 0.1em 0.1em 0.15em rgb(43, 59, 139);
+}
